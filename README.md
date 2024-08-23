@@ -1,1 +1,1 @@
-# MactoeconomicModelingCaseStudies
+# macroeconomic-modeling-case-studies
